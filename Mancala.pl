@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use strict;   #Doing this causes extra work, but it also saves work in some occaisions.  Is it worth taking this out later?
+use strict;   #Doing this causes extra work with variable definitions, but it also saves work in some instances.  Is it worth taking this out later?
 use warnings;
 
 sub twoCharString { #TODO - CHOOSE PROPER ORDER FOR METHODS AND ORGANIZE FILE
